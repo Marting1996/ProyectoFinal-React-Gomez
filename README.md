@@ -28,7 +28,7 @@ _Hecho esto vaya a localhost:3000 en su navegador_
 
 ## Creado con las siguientes herramientas 🔧
 
-*[React] (https://es.react.dev/) - Framerwork del Frontend
-*[Firebase] (https://firebase.google.com/?hl=es) - Base de datos y servidor
-*[Toastify] (https://fkhadra.github.io/react-toastify/introduction/) - Notificaciones
-*[Bootsrap] (https://getbootstrap.com/) - Libreria CSS
+* [React] (https://es.react.dev/) - Framerwork del Frontend
+* [Firebase] (https://firebase.google.com/?hl=es) - Base de datos y servidor
+* [Toastify] (https://fkhadra.github.io/react-toastify/introduction/) - Notificaciones
+* [Bootsrap] (https://getbootstrap.com/) - Libreria CSS
