@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.carroIco{
+  display: flex;
+  cursor: pointer;
+}
+
+.carroNotificacion {
+  background-color: red;
+    color: white;
+    border-radius: 50%;
+}
+.cartContainer{
+  margin-top: 3%;
+  margin-left: 26, 5%;
+  align-content: center;
+}
+
+.cardCart {
+  max-width: 840px;
+}
+
+.darkMode {
+  background-color: rgb(53, 53, 53);
+  color: white;
+  
+}
+.darkMode .card {
+  background-color: rgb(53, 53, 53);
+  border-color: #fff;
+}
+
+.cardBody {
+  background-color: white;
+  margin-bottom: 3px;
+  text-align: center;
+}
+.cardBodyDark {
+  background-color: gray;
+  margin-bottom: 3px;
+  text-align: center;
+}
